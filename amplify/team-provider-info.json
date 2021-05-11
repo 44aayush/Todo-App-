@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-todoaws-staging-112852-authRole",
+      "UnauthRoleArn": "arn:aws:iam::891999723090:role/amplify-todoaws-staging-112852-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::891999723090:role/amplify-todoaws-staging-112852-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-todoaws-staging-112852-deployment",
+      "UnauthRoleName": "amplify-todoaws-staging-112852-unauthRole",
+      "StackName": "amplify-todoaws-staging-112852",
+      "StackId": "arn:aws:cloudformation:us-east-2:891999723090:stack/amplify-todoaws-staging-112852/10e9f9c0-b24c-11eb-b651-0623d7a8909a",
+      "AmplifyAppId": "d3tnch97891x55"
+    },
+    "categories": {
+      "auth": {
+        "todoaws945783c8": {}
+      }
+    }
+  }
+}
